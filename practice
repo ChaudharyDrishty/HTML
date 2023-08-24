@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>QUOTES</title>
+<link rel="icon" type="image/x-icon" href="C:\Users\Drishty\Downloads\favicon.ico">
+<meta charset="UTF-8">
+<meta name="description" content="HTML Program">
+<meta name="keywords content="HTML,CSS,JavaScript">
+<meta name="author" content="Drishty">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+<h1>QUOTES</h1>
+<p>My first Paragraph.</p>
+<p title='DRISHTY"KIET" MCA'>
+Pragraph 2 .
+</p>
+<p title="Drishty 'KIET' MCA">
+Paragraph 3 .
+</p>
+<p title='DRISHTY 'KIET' MCA'>
+Paragraph 4 .
+</p>
+<p title="DRISHTY "KIET" MCA">
+Paragraph 5 .
+</p>
+<p title="DRISHTY 'KIET' MCA '2023''>
+Paragraph 6 .
+</p>
+<p title="DRISHTY 'KIET' MCA '2023">
+Paragraph 7 .
+</p>
+<p title="DRISHTY 'KIET' MCA'2023'">
+Paragraph 8 .
+</p>
+<p title="DRISHTY 'KIET' &quot;MCA&quot; '2023'">
+Paragraph 9.
+</p>
+<h1 style="font-family:Verdana;font-size:300%;color:blueviolet;">Font Style </h1>
+<p style="font-family:Arial, Helvetica, sans-serif;color:brown;font-size:200%;">Paragraph Style</p> 
+</body>
+</html>
